@@ -9,7 +9,7 @@
 	- [Trello](#trello)
 	- [HomeBank and OnlyOffice](#homebank-and-onlyoffice)
 	- [Outlook](#outlook)
-	- [ProtonMail](#protonmail)
+	- [ProtonMail & Other Anonymous Email Providers](#protonmail)
 	- [Thunderbird](#thunderbird)
 		- [Thunderbird and GMail](#thunderbird-and-gmail)
 		- [Thunderbird Extensions](#thunderbird-extensions)
@@ -250,6 +250,7 @@
 
 ## ProtonMail
 - [Announcement: ProtonMail has launched worldwide!](https://protonmail.com/blog/protonmail-launch-worldwide/)
+- [Other Anonymous Email Providers & Guide](https://thebestvpn.com/anonymous-email/)
 
 ## Thunderbird
 - [emailmafia.net](http://emailmafia.net)
